@@ -1,0 +1,1 @@
+6c81b86 [CALCITE-860] Correct LICENSE file for generated web site
